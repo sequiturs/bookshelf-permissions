@@ -1,5 +1,7 @@
 # bookshelf-permissions
 
+[![npm version](https://img.shields.io/npm/v/bookshelf-permissions.svg?style=flat)](https://www.npmjs.com/package/bookshelf-permissions)
+
 ## Description
 
 This module is a plugin for [Bookshelf.js](https://github.com/tgriesser/bookshelf), to control CRUD access to Bookshelf models and collections based on permissions.
