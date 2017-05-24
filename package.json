@@ -1,5 +1,5 @@
 {
-  "name": "bookshelf-advanced-serialization",
+  "name": "bookshelf-permissions",
   "version": "0.0.1",
   "description": "Plugin for Bookshelf.js to control CRUD access to Bookshelf models and collections based on permissions.",
   "main": "lib/index.js",

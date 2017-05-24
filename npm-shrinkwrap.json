@@ -1,5 +1,5 @@
 {
-  "name": "bookshelf-advanced-serialization",
+  "name": "bookshelf-permissions",
   "version": "0.0.1",
   "dependencies": {
     "bluebird": {
