@@ -1,0 +1,27 @@
+{
+  "name": "bookshelf-advanced-serialization",
+  "version": "0.0.1",
+  "description": "Plugin for Bookshelf.js supporting advanced serialization behavior, including by (1) model access permissions, (2) the application context in which serialization occurs, and (3) the relations that should be loaded on the model before serializing.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sequiturs/bookshelf-permissions.git"
+  },
+  "files": [
+    "lib"
+  ],
+  "author": "Ian Hinsdale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sequiturs/bookshelf-permissions/issues"
+  },
+  "homepage": "https://github.com/sequiturs/bookshelf-permissions#readme",
+  "peerDependencies": {
+    "bookshelf": ">= 0.9.4 <= 0.10.3"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {}
+}

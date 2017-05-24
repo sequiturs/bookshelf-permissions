@@ -1,0 +1,16 @@
+{
+  "name": "bookshelf-advanced-serialization",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": {
+      "version": "3.5.0",
+      "from": "bluebird@latest",
+      "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.0.tgz"
+    },
+    "lodash": {
+      "version": "4.17.4",
+      "from": "lodash@latest",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.4.tgz"
+    }
+  }
+}
