@@ -1,6 +1,6 @@
 {
   "name": "bookshelf-permissions",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "dependencies": {
     "bluebird": {
       "version": "3.5.0",
