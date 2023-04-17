@@ -1,6 +1,6 @@
 {
   "name": "bookshelf-permissions",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Plugin for Bookshelf.js to control CRUD access to Bookshelf models and collections based on permissions.",
   "main": "lib/index.js",
   "repository": {
@@ -17,11 +17,10 @@
   },
   "homepage": "https://github.com/sequiturs/bookshelf-permissions#readme",
   "peerDependencies": {
-    "bookshelf": ">= 0.9.4 <= 0.10.3"
+    "bookshelf": ">= 0.15.2 < 1.0.0"
   },
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "lodash": "^4.17.4"
-  },
-  "devDependencies": {}
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.21"
+  }
 }
